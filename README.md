@@ -10,7 +10,7 @@ By cleaning the raw data and utilizing advanced Excel features, I developed inte
 - **Data Processing:** Handling date formatting, standardizing monetary values, and creating calculated fields for comprehensive analysis.
 
 ## 📂 Dataset Details
-- **File:**'project file.xlsx' 
+- **File:** [project file.xlsx](project%20file.xlsx) 
 - **Rows:** 1,000+ sales records
 - **Key Variables Analysed:** 
   - `Region` & `Country`
