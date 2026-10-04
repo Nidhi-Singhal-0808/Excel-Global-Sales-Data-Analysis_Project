@@ -26,11 +26,11 @@ After analyzing **$231.2 Million** in total global revenue, here are the primary
 
 ## 🖼️ Dashboards
 ### 1. Profit Dashboard
-![Profit Dashboard](Link_to_your_Profit_Dashboard_Screenshot_Here)
+![Profit Dashboard](Excel%20Profit%20Dashboard%20on%20Sales%20image.jpg)
 *Highlights profit distribution by sales channel, country, and year.*
 
 ### 2. Revenue Dashboard
-![Revenue Dashboard](Link_to_your_Revenue_Dashboard_Screenshot_Here)
+![Revenue Dashboard](Excel%20Revenue%20Dashboard%20on%20Sales%20image.jpg)
 *Tracks total revenue versus total costs across varying item types and global regions.*
 
 ## 👩‍💻 About the Author
