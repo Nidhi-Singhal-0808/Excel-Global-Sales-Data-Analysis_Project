@@ -33,7 +33,15 @@ After analyzing **$231.2 Million** in total global revenue, here are the primary
 ![Revenue Dashboard](Excel%20Revenue%20Dashboard%20on%20Sales%20image.jpg)
 *Tracks total revenue versus total costs across varying item types and global regions.*
 
-## 👩‍💻 About the Author
-Hi, I'm Nidhi! I am a 3rd-year B.Tech student with a strong focus on building my skills in data analysis, SQL, and data visualization. This Excel project is the first step in my data journey as I transition from raw datasets to building intuitive, business-focused dashboards. 
+## 👩‍💻 About Me
 
-Feel free to connect with me on LinkedIn or check out my other repositories!
+Hi, I'm **Nidhi Singhal**! 👋
+
+I am currently in my 3rd year of a B.Tech program and an aspiring **Business / Data Analyst**. I am passionate about transforming raw data into actionable insights and solving real-world problems through data-driven decision-making. 
+
+My technical journey involves exploring SQL, designing data architecture, and building efficient workflows. I am always eager to learn new technologies, tackle complex analytical challenges, and collaborate on exciting tech projects. 
+
+📫 **Let's Connect:**
+- **LinkedIn:** [www.linkedin.com/in/nidhi-singhal-cse]
+- **GitHub:** [@Nidhi-Singhal-0808](https://github.com/Nidhi-Singhal-0808)
+- **Email:** [singhalnidhi0808@gmail.com]
